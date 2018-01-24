@@ -1,0 +1,11 @@
+{
+	"ImportPath": "harper/harper",
+	"GoVersion": "go1.9",
+	"GodepVersion": "v79",
+	"Deps": [
+		{
+			"ImportPath": "github.com/bluewebtech/harper",
+			"Rev": "2c2a9bd171223b7816f24346b68f62cc6c1cdb1b"
+		}
+	]
+}
